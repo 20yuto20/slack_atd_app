@@ -1,0 +1,6 @@
+node_modules/
+.env
+package-lock.json
+package.json
+repopack-output.txt
+.serverless/
